@@ -4,6 +4,7 @@
 * Keynote - Fabien Potencier
 * PSR-6 & Symfony Cache: fast by standards - Nicolas Grekas 
 * Do not (always) use FOSUserBundle! - Damien Alexandre
+  * [Slides](https://jolicode.github.io/fosuserbundle-conf/#/)
 * 5 Years with Symfony - Paweł Jędrzejewski
 * Making your applications work together through interoperability - Michael Cullum
   * [Slides](https://speakerdeck.com/michaelcullum/making-your-applications-work-together-through-interoperability)
