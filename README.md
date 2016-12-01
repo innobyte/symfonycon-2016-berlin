@@ -11,6 +11,7 @@ Joind.in link https://joind.in/event/symfonycon-berlin-2016
   * [Slides](https://speakerdeck.com/michaelcullum/making-your-applications-work-together-through-interoperability)
 * Challenges and solutions in getting your open source company to contribution  - Jeffrey A. McGuire
 * Knowing your state machines - Tobias Nyholm
+  * [Slides](http://www.slideshare.net/TobiasNyholm/knowing-your-state-machines)
 * Profiling PHP - Sebastian Grodzicki
 * When To Abstract - Kore Nordmann
 * A CQRS and Event Sourcing approach in a Symfony application - Samuel ROZE
