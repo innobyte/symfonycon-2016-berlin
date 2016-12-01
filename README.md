@@ -1,4 +1,5 @@
 # symfonycon 2016 berlin
+Joind.in link https://joind.in/event/symfonycon-berlin-2016
 
 ## Thursday, December 1st
 * Keynote - Fabien Potencier
