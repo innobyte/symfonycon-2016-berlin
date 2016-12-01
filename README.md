@@ -13,6 +13,7 @@ Joind.in link https://joind.in/event/symfonycon-berlin-2016
 * Knowing your state machines - Tobias Nyholm
   * [Slides](http://www.slideshare.net/TobiasNyholm/knowing-your-state-machines)
 * Profiling PHP - Sebastian Grodzicki
+  * [Slides](https://speakerdeck.com/sgrodzicki/profiling-php-at-symfonycon-berlin-2016)
 * When To Abstract - Kore Nordmann
 * A CQRS and Event Sourcing approach in a Symfony application - Samuel ROZE
 
