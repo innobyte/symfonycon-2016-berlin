@@ -4,7 +4,8 @@ Joind.in link https://joind.in/event/symfonycon-berlin-2016
 ## Thursday, December 1st
 * Keynote - Fabien Potencier
   * [Slides](https://speakerdeck.com/fabpot/the-state-of-symfony-in-the-cloud)
-* PSR-6 & Symfony Cache: fast by standards - Nicolas Grekas 
+* PSR-6 & Symfony Cache: fast by standards - Nicolas Grekas
+   * [Slides](https://speakerdeck.com/nicolasgrekas/psr-6-and-symfony-cache-fast-by-standards-1)
 * Do not (always) use FOSUserBundle! - Damien Alexandre
   * [Slides](https://jolicode.github.io/fosuserbundle-conf/#/)
 * 5 Years with Symfony - Paweł Jędrzejewski
@@ -27,7 +28,9 @@ Joind.in link https://joind.in/event/symfonycon-berlin-2016
 * Make your code do your job - Larry Garfield
   * [Slides](http://www.garfieldtech.com/presentations/sfconberlin2016-code-job/)
 * Modernizing with Symfony - Alexander M. Turek
+  * [Slides](https://slidr.io/derrabus/modernizing-with-symfony)
 * Jenkins deployment pipeline - Nicole Cordes
+  * [Slides](https://slideshare.net/cpsitgmbh/symfonycon-berlin-2016-jenkins-deployment-pipelines)
 * Kafka will get the message across, guaranteed - David Zuelke
 * Symfony Plugin for PhpStorm - 3 years later  - Daniel Espendiller
   * [Slides](http://www.slideshare.net/Haehnchen/symfonycon-berlin-2016-symfony-plugin-for-phpstorm-3-years-later-69804748)
